@@ -5,7 +5,8 @@
 </p>
 <p align="center">Diagram of workflow in this example.</p>
 
-A repository for a tutorial for Pantheon workflows. This example uses `Ascent`, in-situ creation of `Cinema`
+A repository for a tutorial for Pantheon workflows, given at the 2021 ECP Annual Meeting. 
+This example uses `Ascent`, in-situ creation of `Cinema`
 databases, and post-processing analysis. 
 
 Build instructions embedded in this workflow are derived from the Ascent build instructions [here](https://ascent.readthedocs.io/en/latest/BuildingAscent.html). This workflow uses **spack** to build all executables, from a specific commit.

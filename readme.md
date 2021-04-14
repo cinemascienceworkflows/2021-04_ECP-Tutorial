@@ -1,5 +1,3 @@
-![research](https://pantheonscience.github.io/states/research.png)
-
 # Cinema E4S Tutorial Repository 
 
 <p align="center">

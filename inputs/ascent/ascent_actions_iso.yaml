@@ -1,0 +1,24 @@
+-
+  action: "add_pipelines"
+  pipelines:
+    pl1:
+      f1:
+        type: "contour"
+        params:
+          field: "energy"
+          iso_values: 2
+-
+  action: "add_scenes"
+  scenes:
+    s1:
+      plots:
+        p1:
+          type: "pseudocolor"
+          pipeline: "pl1"
+          field: "energy"
+      renders:
+        r1:
+          type: "cinema"
+          phi: 1
+          theta: 4
+          db_name: "pantheon.cdb"

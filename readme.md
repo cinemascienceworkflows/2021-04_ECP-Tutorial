@@ -31,3 +31,7 @@ For complete instructions, see documents beginning in `doc/tutorial/index.html`
 </table>
 </p>
 <p align="center">Images from the resulting Cinema database (used to validate run)</p>
+
+<center>
+<small>LA-UR-21-23407</small>
+</center>
